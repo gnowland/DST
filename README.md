@@ -1,3 +1,2 @@
 # DST
-
-Display System Timezone MacOS App
+"Display System Timezone" MacOS App
